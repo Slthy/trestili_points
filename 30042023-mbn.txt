@@ -1,0 +1,852 @@
+{
+    "MAZZOCCO MARYSOL": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:45.28",
+                "final_time": "02:37.05",
+                "fina_points": "372",
+                "delta%": "-4.98%",
+                "estimated_points": "4.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:54.86",
+                "final_time": "02:56.52",
+                "fina_points": "365",
+                "delta%": "0.95%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "SANTIN CAMILLA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:40.61",
+                "final_time": "02:31.81",
+                "fina_points": "412",
+                "delta%": "-5.48%",
+                "estimated_points": "4.0"
+            },
+            "200 Farfalla": {
+                "entry_time": "02:49.36",
+                "final_time": "02:50.85",
+                "fina_points": "362",
+                "delta%": "0.88%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "GOTTARDO SOPHIE": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:30.08",
+                "final_time": "02:21.86",
+                "fina_points": "505",
+                "delta%": "-5.48%",
+                "estimated_points": "4.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:48.82",
+                "final_time": "02:40.40",
+                "fina_points": "486",
+                "delta%": "-4.99%",
+                "estimated_points": "4.0"
+            }
+        }
+    },
+    "MARTIGNAGO SARA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:26.79",
+                "final_time": "02:25.86",
+                "fina_points": "465",
+                "delta%": "-0.63%",
+                "estimated_points": "0.0"
+            },
+            "100 Rana": {
+                "entry_time": "01:30.30",
+                "final_time": "01:32.02",
+                "fina_points": "338",
+                "delta%": "1.9%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "MEROTTO EMMA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:29.81",
+                "final_time": "02:24.93",
+                "fina_points": "474",
+                "delta%": "-3.26%",
+                "estimated_points": "2.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:44.22",
+                "final_time": "02:45.79",
+                "fina_points": "440",
+                "delta%": "0.96%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "BANDIERA EMMAMADDALENA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:22.45",
+                "final_time": "02:22.92",
+                "fina_points": "494",
+                "delta%": "0.33%",
+                "estimated_points": "0.0"
+            },
+            "200 Farfalla": {
+                "entry_time": "06:40.00",
+                "final_time": "02:46.52",
+                "fina_points": "391",
+                "delta%": "-58.37%",
+                "estimated_points": "14634.0"
+            }
+        }
+    },
+    "ARCADIO ANGELICA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:24.34",
+                "final_time": "02:25.29",
+                "fina_points": "470",
+                "delta%": "0.66%",
+                "estimated_points": "0.0"
+            },
+            "100 Rana": {
+                "entry_time": "01:18.62",
+                "final_time": "01:20.32",
+                "fina_points": "509",
+                "delta%": "2.16%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "MUSSATO CARLOTTA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:20.37",
+                "final_time": "02:17.91",
+                "fina_points": "550",
+                "delta%": "-1.75%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:30.79",
+                "final_time": "00:29.77",
+                "fina_points": "503",
+                "delta%": "-3.31%",
+                "estimated_points": "2.0"
+            }
+        }
+    },
+    "GRAZIOTTO LETIZIA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:21.41",
+                "final_time": "02:23.97",
+                "fina_points": "483",
+                "delta%": "1.81%",
+                "estimated_points": "0.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:38.72",
+                "final_time": "02:40.78",
+                "fina_points": "483",
+                "delta%": "1.3%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "PASQUALETTO LETIZIA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:15.01",
+                "final_time": "02:19.47",
+                "fina_points": "532",
+                "delta%": "3.3%",
+                "estimated_points": "-1.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:28.16",
+                "final_time": "00:28.66",
+                "fina_points": "563",
+                "delta%": "1.78%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "MAGGIOLO CATERINA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:15.68",
+                "final_time": "02:15.87",
+                "fina_points": "575",
+                "delta%": "0.14%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:29.26",
+                "final_time": "00:29.23",
+                "fina_points": "531",
+                "delta%": "-0.1%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "POLLONI NICOLE": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:11.54",
+                "final_time": "02:12.00",
+                "fina_points": "627",
+                "delta%": "0.35%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:27.42",
+                "final_time": "00:27.65",
+                "fina_points": "627",
+                "delta%": "0.84%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "ROSSI LORENZO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:33.16",
+                "final_time": "02:23.01",
+                "fina_points": "363",
+                "delta%": "-6.63%",
+                "estimated_points": "6.0"
+            },
+            "100 Rana": {
+                "entry_time": "01:22.39",
+                "final_time": "01:24.54",
+                "fina_points": "305",
+                "delta%": "2.61%",
+                "estimated_points": "-1.0"
+            }
+        }
+    },
+    "BANDIERA PIETRO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:30.12",
+                "final_time": "02:25.61",
+                "fina_points": "344",
+                "delta%": "-3.0%",
+                "estimated_points": "2.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "01:40.00",
+                "final_time": "00:31.46",
+                "fina_points": "294",
+                "delta%": "-68.54%",
+                "estimated_points": "62576.0"
+            }
+        }
+    },
+    "MEDANA GIOVANNI": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:25.50",
+                "final_time": "02:22.24",
+                "fina_points": "369",
+                "delta%": "-2.24%",
+                "estimated_points": "1.0"
+            },
+            "200 Farfalla": {
+                "entry_time": "02:37.55",
+                "final_time": "02:39.27",
+                "fina_points": "336",
+                "delta%": "1.09%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "PIVA MATTIA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:21.83",
+                "final_time": "02:17.50",
+                "fina_points": "408",
+                "delta%": "-3.05%",
+                "estimated_points": "2.0"
+            },
+            "100 Dorso": {
+                "entry_time": "01:10.60",
+                "final_time": "01:10.66",
+                "fina_points": "395",
+                "delta%": "0.08%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "ZAMPROGNO PAOLO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:18.78",
+                "final_time": "02:16.35",
+                "fina_points": "419",
+                "delta%": "-1.75%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:26.50",
+                "final_time": "00:26.44",
+                "fina_points": "495",
+                "delta%": "-0.23%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "MICHIELIN FRANCESCO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:18.54",
+                "final_time": "02:17.28",
+                "fina_points": "410",
+                "delta%": "-0.91%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:28.11",
+                "final_time": "00:28.03",
+                "fina_points": "415",
+                "delta%": "-0.28%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "PIAZZA NICOLA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:18.45",
+                "final_time": "02:19.21",
+                "fina_points": "393",
+                "delta%": "0.55%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:29.60",
+                "final_time": "00:29.73",
+                "fina_points": "348",
+                "delta%": "0.44%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "LENISA NICHOLAS": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:16.58",
+                "final_time": "02:14.41",
+                "fina_points": "437",
+                "delta%": "-1.59%",
+                "estimated_points": "0.0"
+            },
+            "100 Dorso": {
+                "entry_time": "01:08.60",
+                "final_time": "01:10.68",
+                "fina_points": "395",
+                "delta%": "3.03%",
+                "estimated_points": "-1.0"
+            }
+        }
+    },
+    "PELLIZZER ENRICO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:15.70",
+                "final_time": "02:15.37",
+                "fina_points": "428",
+                "delta%": "-0.24%",
+                "estimated_points": "0.0"
+            },
+            "100 Rana": {
+                "entry_time": "01:23.89",
+                "final_time": "01:20.01",
+                "fina_points": "359",
+                "delta%": "-4.63%",
+                "estimated_points": "3.0"
+            }
+        }
+    },
+    "CAVALLIN LORENZO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:11.70",
+                "final_time": "02:09.83",
+                "fina_points": "485",
+                "delta%": "-1.42%",
+                "estimated_points": "0.0"
+            },
+            "100 Dorso": {
+                "entry_time": "01:07.01",
+                "final_time": "01:05.57",
+                "fina_points": "494",
+                "delta%": "-2.15%",
+                "estimated_points": "1.0"
+            }
+        }
+    },
+    "BANDIERA BRUNO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:15.29",
+                "final_time": "02:13.08",
+                "fina_points": "450",
+                "delta%": "-1.63%",
+                "estimated_points": "0.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:35.86",
+                "final_time": "02:34.24",
+                "fina_points": "404",
+                "delta%": "-1.04%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "BUSOLIN FRANCESCO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:09.67",
+                "final_time": "02:06.46",
+                "fina_points": "525",
+                "delta%": "-2.48%",
+                "estimated_points": "1.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:26.00",
+                "final_time": "00:26.14",
+                "fina_points": "512",
+                "delta%": "0.54%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "DALLA TOR ALBERTO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:06.39",
+                "final_time": "02:07.74",
+                "fina_points": "509",
+                "delta%": "1.07%",
+                "estimated_points": "0.0"
+            },
+            "200 Farfalla": {
+                "entry_time": "02:16.90",
+                "final_time": "02:24.28",
+                "fina_points": "452",
+                "delta%": "5.39%",
+                "estimated_points": "-2.0"
+            }
+        }
+    },
+    "SARTOR IVAN": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:05.94",
+                "final_time": "02:04.88",
+                "fina_points": "545",
+                "delta%": "-0.84%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:26.47",
+                "final_time": "00:26.45",
+                "fina_points": "494",
+                "delta%": "-0.08%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "VENTURINI GIACOMO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:08.27",
+                "final_time": "02:11.01",
+                "fina_points": "472",
+                "delta%": "2.14%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:26.30",
+                "final_time": "00:26.65",
+                "fina_points": "483",
+                "delta%": "1.33%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "SIMEONI ELIA": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "01:59.33",
+                "final_time": "02:02.50",
+                "fina_points": "577",
+                "delta%": "2.66%",
+                "estimated_points": "-1.0"
+            },
+            "200 Farfalla": {
+                "entry_time": "02:15.05",
+                "final_time": "02:16.51",
+                "fina_points": "534",
+                "delta%": "1.08%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "MARTIGNAGO AGOSTINO": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:02.76",
+                "final_time": "02:03.28",
+                "fina_points": "566",
+                "delta%": "0.42%",
+                "estimated_points": "0.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:22.51",
+                "final_time": "02:19.72",
+                "fina_points": "543",
+                "delta%": "-1.96%",
+                "estimated_points": "1.0"
+            }
+        }
+    },
+    "GALLINA NICCOLO'": {
+        "events": {
+            "200 Stile Libero": {
+                "entry_time": "02:04.95",
+                "final_time": "02:07.20",
+                "fina_points": "516",
+                "delta%": "1.8%",
+                "estimated_points": "0.0"
+            },
+            "100 Dorso": {
+                "entry_time": "01:03.94",
+                "final_time": "01:05.03",
+                "fina_points": "507",
+                "delta%": "1.7%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "JEDREJCIC DIEGO": {
+        "events": {
+            "50 Farfalla": {
+                "entry_time": "00:34.67",
+                "final_time": "00:32.69",
+                "fina_points": "316",
+                "delta%": "-5.71%",
+                "estimated_points": "4.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:28.82",
+                "final_time": "00:28.82",
+                "fina_points": "382",
+                "delta%": "-0.0%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "MICHIELETTO LORENZO": {
+        "events": {
+            "50 Farfalla": {
+                "entry_time": "00:29.97",
+                "final_time": "00:30.11",
+                "fina_points": "405",
+                "delta%": "0.47%",
+                "estimated_points": "0.0"
+            },
+            "200 Farfalla": {
+                "entry_time": "02:32.50",
+                "final_time": "02:32.95",
+                "fina_points": "379",
+                "delta%": "0.3%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "BARBON MARTINO": {
+        "events": {
+            "50 Farfalla": {
+                "entry_time": "00:29.14",
+                "final_time": "00:28.82",
+                "fina_points": "461",
+                "delta%": "-1.1%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:27.69",
+                "final_time": "00:27.77",
+                "fina_points": "427",
+                "delta%": "0.29%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "ESPOSITO MARCO": {
+        "events": {
+            "50 Farfalla": {
+                "entry_time": "00:28.50",
+                "final_time": "00:28.44",
+                "fina_points": "480",
+                "delta%": "-0.21%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:25.59",
+                "final_time": "00:26.20",
+                "fina_points": "508",
+                "delta%": "2.38%",
+                "estimated_points": "-1.0"
+            }
+        }
+    },
+    "SPADETTO SAMUELE": {
+        "events": {
+            "50 Farfalla": {
+                "entry_time": "00:27.60",
+                "final_time": "00:28.33",
+                "fina_points": "486",
+                "delta%": "2.64%",
+                "estimated_points": "-1.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:26.31",
+                "final_time": "00:26.59",
+                "fina_points": "486",
+                "delta%": "1.06%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "PRIZZON BEATRICE": {
+        "events": {
+            "100 Dorso": {
+                "entry_time": "01:25.95",
+                "final_time": "01:22.40",
+                "fina_points": "341",
+                "delta%": "-4.13%",
+                "estimated_points": "3.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:33.37",
+                "final_time": "00:32.69",
+                "fina_points": "380",
+                "delta%": "-2.04%",
+                "estimated_points": "1.0"
+            }
+        }
+    },
+    "VISENTIN ADELE": {
+        "events": {
+            "100 Dorso": {
+                "entry_time": "01:15.47",
+                "final_time": "01:12.94",
+                "fina_points": "492",
+                "delta%": "-3.35%",
+                "estimated_points": "2.0"
+            },
+            "1500 Stile Libero": {
+                "entry_time": "19:50.00",
+                "final_time": "19:02.03",
+                "fina_points": "444",
+                "delta%": "-4.03%",
+                "estimated_points": "3.0"
+            }
+        }
+    },
+    "SFOGGIA GEMMA": {
+        "events": {
+            "100 Dorso": {
+                "entry_time": "01:17.71",
+                "final_time": "01:15.29",
+                "fina_points": "447",
+                "delta%": "-3.11%",
+                "estimated_points": "2.0"
+            },
+            "100 Rana": {
+                "entry_time": "03:20.00",
+                "final_time": "01:28.16",
+                "fina_points": "385",
+                "delta%": "-55.92%",
+                "estimated_points": "10311.0"
+            }
+        }
+    },
+    "CAVALLIN GABRIELE": {
+        "events": {
+            "100 Dorso": {
+                "entry_time": "01:12.44",
+                "final_time": "01:11.59",
+                "fina_points": "380",
+                "delta%": "-1.17%",
+                "estimated_points": "0.0"
+            },
+            "200 Misti": {
+                "entry_time": "02:35.39",
+                "final_time": "02:33.71",
+                "fina_points": "408",
+                "delta%": "-1.08%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "SANDRI JACOPO": {
+        "events": {
+            "100 Dorso": {
+                "entry_time": "01:02.06",
+                "final_time": "01:03.19",
+                "fina_points": "552",
+                "delta%": "1.82%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:25.57",
+                "final_time": "00:25.64",
+                "fina_points": "542",
+                "delta%": "0.27%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "PAVAN ALESSANDRO": {
+        "events": {
+            "100 Dorso": {
+                "entry_time": "01:05.17",
+                "final_time": "01:05.19",
+                "fina_points": "503",
+                "delta%": "0.03%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:25.84",
+                "final_time": "00:26.31",
+                "fina_points": "502",
+                "delta%": "1.82%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "DARICI MARTINA": {
+        "events": {
+            "200 Misti": {
+                "entry_time": "02:43.95",
+                "final_time": "02:37.03",
+                "fina_points": "518",
+                "delta%": "-4.22%",
+                "estimated_points": "3.0"
+            },
+            "100 Rana": {
+                "entry_time": "03:20.00",
+                "final_time": "01:27.18",
+                "fina_points": "398",
+                "delta%": "-56.41%",
+                "estimated_points": "11059.0"
+            }
+        }
+    },
+    "BALDO BEATRICE": {
+        "events": {
+            "100 Rana": {
+                "entry_time": "01:18.92",
+                "final_time": "01:20.47",
+                "fina_points": "506",
+                "delta%": "1.96%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:29.92",
+                "final_time": "00:30.84",
+                "fina_points": "452",
+                "delta%": "3.07%",
+                "estimated_points": "-1.0"
+            }
+        }
+    },
+    "GARBUJO GIADA": {
+        "events": {
+            "100 Rana": {
+                "entry_time": "01:18.07",
+                "final_time": "01:19.83",
+                "fina_points": "518",
+                "delta%": "2.25%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:29.84",
+                "final_time": "00:29.83",
+                "fina_points": "500",
+                "delta%": "-0.03%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "SIBEN NICOLO'": {
+        "events": {
+            "100 Rana": {
+                "entry_time": "01:07.72",
+                "final_time": "01:07.60",
+                "fina_points": "596",
+                "delta%": "-0.18%",
+                "estimated_points": "0.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:26.00",
+                "final_time": "00:27.25",
+                "fina_points": "452",
+                "delta%": "4.81%",
+                "estimated_points": "-2.0"
+            }
+        }
+    },
+    "SPADETTO LORENZO": {
+        "events": {
+            "100 Rana": {
+                "entry_time": "01:16.89",
+                "final_time": "01:20.42",
+                "fina_points": "354",
+                "delta%": "4.59%",
+                "estimated_points": "-2.0"
+            },
+            "50 Stile Libero": {
+                "entry_time": "00:28.21",
+                "final_time": "00:29.12",
+                "fina_points": "370",
+                "delta%": "3.23%",
+                "estimated_points": "-1.0"
+            }
+        }
+    },
+    "DALLA TOR FRANCESCA": {
+        "events": {
+            "50 Stile Libero": {
+                "entry_time": "00:30.02",
+                "final_time": "00:30.01",
+                "fina_points": "491",
+                "delta%": "-0.03%",
+                "estimated_points": "0.0"
+            }
+        }
+    },
+    "RIZZOTTO VERONICA": {
+        "events": {
+            "50 Stile Libero": {
+                "entry_time": "00:28.68",
+                "final_time": "00:29.24",
+                "fina_points": "530",
+                "delta%": "1.95%",
+                "estimated_points": "0.0"
+            }
+        }
+    }
+}
