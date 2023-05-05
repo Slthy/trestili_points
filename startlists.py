@@ -16,7 +16,7 @@ def get_startlists(id_manifestazione: str) -> dict:
         }
         events.append(event)
 
-    clubs = {}
+    clubs: dict[str, list[dict[str, list]]] = {}
     
     for event in events:
         soup = BeautifulSoup(requests.get(event['url']).content, features="html.parser")

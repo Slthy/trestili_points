@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+    <script type="text/javascript">
+    </script>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const athlete_name = urlParams.get('athlete_name');
+        $.getJSON('club.json', function(data) {
+            let x = document.querySelector('#athlete-data');
+            x.innerHTML = ""
+            const elem = document.createElement("div")
+            elem.innerHTML = `${JSON.stringify(data[athlete_name])}`
+            x.appendChild(elem)
+        }); 
+    </script>
+    <title>Pagina Atleta</title>
+</head>
+<body>
+    <h1>helo</h1>
+    <div id="athlete-data"></div>
+</body>
+</html>
+
+<!--
+$.getJSON('club.json', function(data) {
+            let input = document.getElementById('searchbar').value
+            input = input.toLowerCase();
+            let x = document.querySelector('#list-holder');
+            x.innerHTML = ""
+
+            for (i = 0; i < data.length; i++) {
+                let obj = data[i];
+
+                if (obj.Name.toLowerCase().includes(input) && input.length > 4) {
+                    const elem = document.createElement("li")
+                    elem.innerHTML = `${obj}`
+                    x.appendChild(elem)
+                }
+            }
+        }); 
+
+
+
+-->
