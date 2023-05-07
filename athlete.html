@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <link rel="stylesheet" href="athlete.css">
+
+    <script type="text/javascript">
+        function init(){
+            const urlParams = new URLSearchParams(window.location.search);
+            const athlete_name = urlParams.get('athlete_name');
+            console.log(athlete_name)
+            document.getElementById("name").textContent = athlete_name
+            $.getJSON('club.json', function(data) {
+                const athlete_data = data[athlete_name]
+                //let x = document.querySelector('#athlete-data');
+                //x.innerHTML = ""
+                //const elem = document.createElement("div")
+                //elem.innerHTML = `${JSON.stringify(athlete_data)}`
+                //x.appendChild(elem)
+                const lista = document.getElementById("lista");
+
+                // Crea la lista puntata
+                const ul = document.createElement("ul");
+
+                // Itera su ogni chiave dell'oggetto JSON
+                for (const chiave in athlete_data) {
+                    if (athlete_data.hasOwnProperty(chiave) && chiave != 'Name') {
+                        const oggettoInterno = athlete_data[chiave];
+                        // Crea l'elemento della lista puntata con la chiave come titolo
+                        const li = document.createElement("li");
+                        const h3 = document.createElement("h3");
+                        h3.textContent = chiave;
+                        li.appendChild(h3);
+
+                        // Crea una lista non ordinata per gli elementi dell'oggetto interno
+                        const ulInterno = document.createElement("ul");
+                        for (const stringa in oggettoInterno) {
+                            if (oggettoInterno.hasOwnProperty(stringa)) {
+                                const valore = oggettoInterno[stringa];
+                                // Crea l'elemento della lista puntata per ogni coppia chiave-valore
+                                const liInterno = document.createElement("li");
+                                //1:00:00.01
+                                liInterno.textContent = `${stringa}: ${valore}`;
+                                if (valore == "1:00:00.01")
+                                    liInterno.textContent = `${stringa}: gara non disputata`;
+
+                                ulInterno.appendChild(liInterno);
+                            }
+                        }
+                        li.appendChild(ulInterno);
+                        ul.appendChild(li);
+                    }
+                }
+
+                    // Aggiungi la lista alla pagina
+                lista.appendChild(ul);
+            }); 
+        }
+        document.addEventListener('readystatechange', function() {
+            if (document.readyState === "complete") {
+                init();
+            }
+        });
+    </script>
+    <title>Pagina Atleta</title>
+</head>
+<body>
+    <div class="flexbox">
+        <h1 id="name"></h1>
+        <div id="athlete-data"></div>
+        <div id="lista"></div>
+    </div>
+    
+</body>
+</html>
+
+<!--
+$.getJSON('club.json', function(data) {
+            let input = document.getElementById('searchbar').value
+            input = input.toLowerCase();
+            let x = document.querySelector('#list-holder');
+            x.innerHTML = ""
+
+            for (i = 0; i < data.length; i++) {
+                let obj = data[i];
+
+                if (obj.Name.toLowerCase().includes(input) && input.length > 4) {
+                    const elem = document.createElement("li")
+                    elem.innerHTML = `${obj}`
+                    x.appendChild(elem)
+                }
+            }
+        }); 
+
+
+
+-->

@@ -1,0 +1,35 @@
+* {
+    background: linear-gradient(155deg, #55c7ed, #2bb3e0, #3bc1ed);
+}
+
+/* Stile per il titolo della pagina */
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+}
+
+/* Stile per la sezione che contiene la lista puntata */
+section {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ddd;
+  margin-top: 40px;
+}
+
+/* Stile per l'elemento della lista puntata che contiene il titolo */
+li > h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Stile per gli elementi della lista puntata */
+li > ul > li {
+  font-size: 18px;
+  margin-bottom: 5px;
+}

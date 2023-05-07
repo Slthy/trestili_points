@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="website.js"></script>
+    <link rel="stylesheet" href="home.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+    <script type="text/javascript">
+
+        function search_athlete() {
+            $.getJSON('club_names.json', function(data) {
+                let input = document.getElementById('searchbar').value
+                input = input.toLowerCase();
+                let x = document.querySelector('#list-holder');
+                x.innerHTML = ""
+
+                for (i = 0; i < data.length; i++) {
+                    let obj = data[i];
+
+                    if (obj.toLowerCase().includes(input) && input.length > 4) {
+                        const elem = document.createElement("li")
+                        elem.innerHTML = `<a href="athlete.html?athlete_name=${encodeURIComponent(obj)}">${obj}</a>`
+                        x.appendChild(elem)
+                    }
+                }
+            });
+        }
+    </script>
+    <title>Ricerca Tempi</title>
+</head>
+<body>
+
+    <div class="flexbox">
+        <div class="search">
+            <h1>Search this site</h1>
+            <h3>Click on search icon, then type your keyword.</h3>
+            <div>
+                <input id="searchbar" onkeyup="search_athlete()" type="text" placeholder="Search . . ." required>
+                <ul id="list-holder"></ul>
+            </div>
+    </div>
+</body>
+</html>
