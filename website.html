@@ -10,7 +10,7 @@
 
     <script type="text/javascript">
 
-        function search_animal() {
+        function search_athlete() {
             $.getJSON('club_names.json', function(data) {
                 let input = document.getElementById('searchbar').value
                 input = input.toLowerCase();
@@ -38,7 +38,7 @@
             <h1>Search this site</h1>
             <h3>Click on search icon, then type your keyword.</h3>
             <div>
-                <input id="searchbar" onkeyup="search_animal()" type="text" placeholder="Search . . ." required>
+                <input id="searchbar" onkeyup="search_athlete()" type="text" placeholder="Search . . ." required>
                 <ul id="list-holder"></ul>
             </div>
     </div>
